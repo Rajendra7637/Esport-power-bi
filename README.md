@@ -4,6 +4,11 @@ A Power BI dashboard that tracks live-stream viewership, chat activity, and subs
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
+# Dashborad:
+
+<img width="1320" height="735" alt="espobi" src="https://github.com/user-attachments/assets/3b46d500-27f1-4af6-8945-8c4f01d3c5d3" />
+
+
 ## Overview
 
 This report brings together stream telemetry and viewer engagement data to give a real-time-style view of how audiences respond during e-sports broadcasts — viewer counts, chat sentiment, and subscriber growth — sliceable by tournament, game title, streamer channel, and time.
